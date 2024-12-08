@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'WixMade';
-    src: url('src/assets/fonts/WixMade.ttf') format('truetype'); 
+    src: url('fonts/WixMade.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Rethink Sans';
-    src: url('src/assets/fonts/rethinkSans.ttf') format('truetype'); 
+    src: url('fonts/rethinkSans.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
@@ -22,7 +22,7 @@
     color: azure;
     width: 100%;
     height: 550px;
-    background-image: url("assets/about-bg.jpg");
+    background-image: url("about-bg.jpg");
     background-size: cover;
     box-sizing: border-box;
 }

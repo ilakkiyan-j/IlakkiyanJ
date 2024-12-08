@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'Rethink Sans';
-    src: url('src/assets/fonts/rethinkSans.ttf') format('truetype'); 
+    src: url('fonts/rethinkSans.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'WixMade';
-    src: url('src/assets/fonts/WixMade.ttf') format('truetype'); 
+    src: url('fonts/WixMade.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
 
 /* Overall Project Container */
 .project {
-    background-image: url('src/assets/projects-bg.jpg');
+    background-image: url('projects-bg.jpg');
     background-size: cover;
     color: aliceblue;
     width: 97%;

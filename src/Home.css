@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Zen Dots';
-    src: url('src/assets/fonts/zen-dots.ttf') format('truetype'); 
+    src: url('fonts/zen-dots.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Sansation Regular';
-    src: url('src/assets/fonts/Sansation_Regular.ttf') format('truetype'); 
+    src: url('fonts/Sansation_Regular.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
