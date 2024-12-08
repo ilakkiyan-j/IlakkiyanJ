@@ -7,7 +7,7 @@ function Home() {
     return (
         <div className="home" id='home'>
             <video autoPlay muted loop id="background-video">
-                <source src="bg.mp4" type="video/mp4" />
+                <source src="src/assets/bg.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
             <h1 className="name">Ilakkiyan J</h1>

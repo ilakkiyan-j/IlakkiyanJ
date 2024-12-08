@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'WixMade';
-    src: url('assets/fonts/WixMade.ttf') format('truetype'); 
+    src: url('src/assets/fonts/WixMade.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Rethink Sans';
-    src: url('assets/fonts/rethinkSans.ttf') format('truetype'); 
+    src: url('src/assets/fonts/rethinkSans.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
