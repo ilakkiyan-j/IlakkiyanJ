@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'WixMade';
-    src: url('/fonts/WixMade.ttf') format('truetype'); 
+    src: url('assets/fonts/WixMade.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Rethink Sans';
-    src: url('/fonts/rethinkSans.ttf') format('truetype'); 
+    src: url('assets/fonts/rethinkSans.ttf') format('truetype'); 
     font-weight: normal;
     font-style: normal;
 }
@@ -16,7 +16,7 @@
 .certification-section {
     width: 100%;
     padding: 20px;
-    background-image: url('/certificates-bg.jpg');
+    background-image: url('assets/certificates-bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     box-sizing: border-box;
